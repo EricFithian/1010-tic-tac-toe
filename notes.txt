@@ -1,0 +1,28 @@
+In order to create your own Github Repo:
+
+1. git init 
+This initializes Git 
+2. Create a repo in Github
+3. git remote add origin (url)
+4. git add .
+5. git commit -m "Message"
+6. git push origin (branch)
+
+Keyboard shortcuts:
+
+1. To highlight things that are the same and write on multiple rows
+at the same time, use command & D at the same time
+2. To copy a row, or several rows, use shift & option & up or
+down to copy it either right above or below
+3. Option up moves code up a line, option down moves it down a line
+
+MVP:
+1. Start with minimal HTML/CSS and focus on the easiest
+JS portions first to meet requirements!!
+2. Once you're through an MVP, you get to choose what would
+be the coolest next feature you want to improve. 
+
+Other notes:
+1. Template literals, using the back tick (right under the esc 
+button in the upper left corner) is worth looking into for writing
+cleaner console.logs and other items
